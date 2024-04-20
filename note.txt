@@ -1,0 +1,18 @@
+String
+-----------------------------
+All Simple = strtolower();
+All Capitale = strtoupper();
+First letter capital = usfirst();
+First Letter Capital In All = ucwords();
+Get Lenght = strlen();
+Find Word in Sentence = strstr(variable, word);
+Replace = str_replace(selected word, replace word, variable);
+
+
+Integers
+-----------------------------
+Squaer Root = sqrt();
+Exponentioal | Power = pow(x,y);
+Absoluter Value = abs();
+Modulo = fmod();
+Random Number = rand(x,y);
