@@ -16,3 +16,13 @@ Exponentioal | Power = pow(x,y);
 Absoluter Value = abs();
 Modulo = fmod();
 Random Number = rand(x,y);
+
+
+Floating Point
+------------------------------
+Round = round(x, number of decimal points);
+Round Up = ceil();  23 ==> 24
+Round Down = floor(); 24 ==> 23
+is_int();
+is_float();
+is_numeric();

@@ -29,6 +29,6 @@
     Random Number | rand(): <?php echo rand(); ?>
     <br>
     Random Number | rand(10, 100): <?php echo rand(10, 100); ?>
-
+  
 </body>
 </html>
