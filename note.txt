@@ -26,3 +26,9 @@ Round Down = floor(); 24 ==> 23
 is_int();
 is_float();
 is_numeric();
+
+
+Arrays
+----------------------
+print full array = print_r();
+add multiple new items to array = array_push(array name, "a","b","c");
