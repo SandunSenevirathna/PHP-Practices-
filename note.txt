@@ -32,3 +32,12 @@ Arrays
 ----------------------
 print full array = print_r();
 add multiple new items to array = array_push(array name, "a","b","c");
+
+max();
+min();
+implode();  array ==> String
+explode(); string ==> Arrays
+in_array();  searching items in array
+count();
+sort();
+rsort();
